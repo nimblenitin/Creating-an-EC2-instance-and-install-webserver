@@ -4,7 +4,7 @@ Steps-
 
 ```
 
-1. Create an EC2 instance with below userdata-
+1. Create an EC2 instance with below user data-
 
 #!/bin/bash 
 # Use this for your user data (script without newlines) 
